@@ -1,0 +1,6 @@
+Open Ipynb file in colab
+
+From the tabs at the top of the file explorer,
+select a source and navigate to the .
+ipynb file you wish to open. 
+The file explorer can also be accessed from the Colab interface by selecting File  > Open notebook or using the Ctrl+O keyboard combination.
